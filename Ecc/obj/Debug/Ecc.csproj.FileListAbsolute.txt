@@ -1,0 +1,9 @@
+c:\users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\bin\Debug\Ecc.exe.config
+C:\Users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\bin\Debug\Ecc.exe
+C:\Users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\bin\Debug\Ecc.pdb
+C:\Users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\obj\Debug\Ecc.csprojResolveAssemblyReference.cache
+C:\Users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\obj\Debug\Ecc.Form1.resources
+C:\Users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\obj\Debug\Ecc.Properties.Resources.resources
+C:\Users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\obj\Debug\Ecc.csproj.GenerateResource.Cache
+C:\Users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\obj\Debug\Ecc.exe
+C:\Users\kemal\documents\visual studio 2015\Projects\Ecc\Ecc\obj\Debug\Ecc.pdb
